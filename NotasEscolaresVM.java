@@ -40,5 +40,6 @@ public class NotasEscolaresVM {
             System.out.println("O aluno "+alunos[i][0]+" teve a média de "+notas[i][5]+" e foi "+alunos[i][1]+".");
         }
         System.out.println("Sistema de notas encerrado");
+        System.out.println("Alterado no VS online")
     }
 }
